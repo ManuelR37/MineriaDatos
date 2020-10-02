@@ -8,5 +8,5 @@
 
 [Resumenes](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Resumenes_1811177.pdf)
 
-[Mapa Mental 2]()
+[Mapa Mental 2](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/MapaMental2_1811177.pdf)
 
