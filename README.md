@@ -1,5 +1,7 @@
 # MineriaDatos
 
+#FASE 1
+
 [Mapa Mental 1](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/MapaMental_1_1811177.pdf)
 
 [Presentacion](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Presentacion_VisualizacionDeDatos_7.pdf)
@@ -9,4 +11,9 @@
 [Resumenes](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Resumenes_1811177.pdf)
 
 [Mapa Mental 2](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/MapaMental2_1811177.pdf)
+
+
+#FASE 2
+
+[Analisis Bases de datos](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/AnalisisBD_1811177.pdf)
 
