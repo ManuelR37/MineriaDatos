@@ -16,4 +16,5 @@
 #FASE 2
 
 [Analisis Bases de datos](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/AnalisisBD_1811177.pdf)
+[Ejercicios Basicos Phyton](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/PhytonBasico_1811177.ipynb)
 
