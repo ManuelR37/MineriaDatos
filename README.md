@@ -19,5 +19,5 @@
 
 [Ejercicios Basicos Phyton](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/PhytonBasico_1811177.ipynb)
 
-[Avance 1 PIA](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Avance1_PIA_Equipo04.pdf)
+[Avance 1 PIA](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Avance1_PIA_Equipo08.pdf)
 
