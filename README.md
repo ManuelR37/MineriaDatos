@@ -1,6 +1,6 @@
 # MineriaDatos
 
-#FASE 1
+## FASE 1
 
 [Mapa Mental 1](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/MapaMental_1_1811177.pdf)
 
@@ -13,7 +13,7 @@
 [Mapa Mental 2](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/MapaMental2_1811177.pdf)
 
 
-#FASE 2
+## FASE 2
 
 [Analisis Bases de datos](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/AnalisisBD_1811177.pdf)
 
@@ -21,3 +21,4 @@
 
 [Avance 1 PIA](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Avance1_PIA_Equipo08.pdf)
 
+[Limpieza de datos](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Limpieza_de_datos.ipynb)
