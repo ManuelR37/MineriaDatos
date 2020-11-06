@@ -21,4 +21,6 @@
 
 [Avance 1 PIA](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Avance1_PIA_Equipo08.pdf)
 
-[Limpieza de datos](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Limpieza_de_datos.ipynb)
+[Limpieza de datos (PIA)](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Limpieza_de_datos.ipynb)
+
+[Visudalizacion (PIA)](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Visualizacion_de_datos.ipynb)
