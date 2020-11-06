@@ -23,4 +23,4 @@
 
 [Limpieza de datos (PIA)](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Limpieza_de_datos.ipynb)
 
-[Visudalizacion (PIA)](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Visualizacion_de_datos.ipynb)
+[Visualizacion (PIA)](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Visualizacion_de_datos.ipynb)
