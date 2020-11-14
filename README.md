@@ -25,4 +25,4 @@
 
 [Visualizacion (PIA)](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Visualizacion_de_datos.ipynb)
 
-[Avance II PIA] (https://github.com/soloSergioo/Mineria_de_Datos/blob/master/AvancePIA_II_003_8.ipynb)
+[Avance II PIA](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/AvancePIA_II_003_8.ipynb)
