@@ -19,10 +19,14 @@
 
 [Ejercicios Basicos Phyton](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/PhytonBasico_1811177.ipynb)
 
-[Avance 1 PIA](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Avance1_PIA_Equipo08.pdf)
+[Avance PIA](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Avance1_PIA_Equipo08.pdf)
 
 [Manipulacion de datos (PIA)](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Limpieza_de_datos.ipynb)
 
 [Visualizacion (PIA)](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Visualizacion_de_datos.ipynb)
+
+
+
+## FASE 3
 
 [Avance II PIA](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/AvancePIA_II_003_8.ipynb)
