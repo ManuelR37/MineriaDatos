@@ -30,3 +30,5 @@
 ## FASE 3
 
 [Avance II PIA](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/AvancePIA_II_003_8.ipynb)
+
+[Poster](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/PIA_8_003.pdf)
